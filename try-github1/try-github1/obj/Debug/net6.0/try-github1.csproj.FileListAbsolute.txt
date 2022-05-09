@@ -1,0 +1,15 @@
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\bin\Debug\net6.0\try-github1.exe
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\bin\Debug\net6.0\try-github1.deps.json
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\bin\Debug\net6.0\try-github1.runtimeconfig.json
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\bin\Debug\net6.0\try-github1.dll
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\bin\Debug\net6.0\try-github1.pdb
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.csproj.AssemblyReference.cache
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.AssemblyInfoInputs.cache
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.AssemblyInfo.cs
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.csproj.CoreCompileInputs.cache
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.dll
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\refint\try-github1.dll
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.pdb
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\try-github1.genruntimeconfig.cache
+C:\Users\sbs_2sl_001\Desktop\try-github1\try-github1\try-github1\obj\Debug\net6.0\ref\try-github1.dll
